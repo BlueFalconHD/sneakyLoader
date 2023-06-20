@@ -1,8 +1,8 @@
 # README
-SneakyLoader
+SneakyLoader is a modloader for the game Sneaky Sasquatch.
 
 # DISCLAIMER
-SneakyLoader should not be used to cheat in the game in any way, and it is not a way to pirate the game. It instead patches an existing game, so you'll still need an active Apple Arcade subscription to get started.
+SneakyLoader should not be used to cheat in the game in any way, and it is not a way to pirate the game. It instead patches an existing game, so you'll still need an active Apple Arcade subscription to get started. Note that this software in no way allows you to cheat or hack any online features of Sneaky Sasquatch, only providing cosmetic, quality of life, or feature upgrades to the base game.
 
 # GETTING STARTED
 ## Prerequisites
